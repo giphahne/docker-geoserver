@@ -1,4 +1,4 @@
-FROM tomcat:9-jdk11
+FROM arm64v8/tomcat:9-jdk11
 
 LABEL maintainer="Oscar Fonts <oscar.fonts@geomati.co>"
 
